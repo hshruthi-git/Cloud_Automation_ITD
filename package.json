@@ -1,0 +1,26 @@
+{
+  "name": "cloud_automation_app",
+  "version": "1.0.0",
+  "description": "Express app with a Bootstrap homepage",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hshruthi-git/hosting_deployment_ITD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hshruthi-git/hosting_deployment_ITD/issues"
+  },
+  "homepage": "https://github.com/hshruthi-git/hosting_deployment_ITD#readme"
+}
